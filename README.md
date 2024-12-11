@@ -57,3 +57,34 @@ I then performed analysis on the following variables:
 •	Most Popular Bike Type by Time: Analyzed which bike types (classic, docked, electric) were most commonly used during different times of the day.
 •	Total Rides by Hour: Examined the total number of rides by hour to identify peak usage times.
 
+Findings:
+Usage Patterns by User Type:
+•	Casual riders predominantly use bikes on weekends, while annual members have consistent usage throughout the week.
+•	Casual riders take longer rides on average compared to annual members.
+Seasonal and Monthly Trends:
+•	Summer months (June–August) see the highest number of rides, indicating peak usage during warmer weather.
+•	Casual riders contribute significantly to this seasonal spike, especially on weekends.
+Bike Preferences:
+•	Electric bikes and classic bikes are the most popular, with casual riders favoring electric bikes for longer rides.
+Hourly Trends:
+•	Most rides occur during late mornings and afternoons, with a notable spike during leisure hours for casual riders.
+Ride Length Differences:
+•	Casual riders tend to have longer ride durations, while members typically use bikes for shorter, consistent trips.
+
+Marketing Strategies to Convert Casual Riders into Annual Members
+1.	Introduce “Weekend Warrior” Membership Plans
+o	Observation: Casual riders are most active on weekends.
+o	Strategy: Offer a tailored “Weekend Membership Plan” for weekend riders at a reduced rate, including perks like discounted weekday rides. Promote upgrades to full annual memberships with added benefits like exclusive access to special promotions or events.
+2.	Gamify the Membership Experience
+o	Observation: Casual riders may lack a strong incentive to switch to annual plans.
+o	Strategy: Launch a rewards program where casual riders earn points for rides. Points can unlock free rides, exclusive discounts, or merchandise. Highlight how annual members earn rewards faster, creating a sense of achievement and added value.
+3.	Personalized Marketing Campaigns
+o	Observation: Casual riders exhibit specific patterns, such as long ride durations or preferences for weekends.
+o	Strategy: Use personalized email or app notifications to demonstrate how annual memberships align with their behavior. Examples: 
+	“Save $$ on your weekend rides with an annual membership!”
+	“You’ve spent 10 hours riding this month. Imagine the savings with a membership!”
+These strategies focus on tailoring offerings to casual riders’ habits, incentivizing loyalty, and communicating tangible benefits effectively.
+
+Conclusion:
+The analysis highlights clear differences in how casual riders and annual members utilize Cyclistic bikes. Casual riders are more inclined toward recreational and seasonal use, favoring weekends and longer ride durations, while annual members use bikes more consistently for likely commuting or regular activities.
+These insights underline opportunities for targeted marketing strategies aimed at converting casual riders into annual members. Offering tailored membership plans, rewards for frequent usage, and personalized marketing campaigns can effectively address casual riders’ habits and preferences, incentivizing them to transition to annual memberships.
