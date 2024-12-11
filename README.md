@@ -8,12 +8,13 @@ Overall Goal
 The primary objective is to design marketing strategies that encourage casual riders to become annual members.
 Business Question
 "How do the usage patterns of annual members and casual riders differ on Cyclistic bikes?"
-Below, I will outline the step-by-step process I followed to complete this project. If you’re interested in the business insights, feel free to skip ahead to the "Insights" section.
+
+Below, I will outline the step-by-step process I followed to complete this project.
 
 
 PROCESS
 Overview:
-I began by analyzing the data on a monthly basis using Excel, then moved to R for a comprehensive yearly analysis. Finally, I created a dashboard in Tableau and utilized Figma to enhance the visual design elements.
+I began by analyzing the data on a monthly basis using Excel, then moved to R for a comprehensive yearly analysis. 
 Microsoft Excel
 I initially chose Excel for its familiarity, which allowed for a quicker, high-level understanding of the data. Due to the large file sizes, I avoided combining all the data into one, as it would have required more processing power than my computer could handle.
 I obtained the data from the link provided in the document and downloaded all of the data for the year 2021. Afterward, I converted the .csv files into Excel spreadsheets. The data I used includes the following months:
