@@ -6,3 +6,5 @@ As a junior data analyst, my task is to analyze usage patterns and create market
 
 Business Question
 How do the usage patterns of annual members and casual riders differ on Cyclistic bikes?
+
+files source: https://divvy-tripdata.s3.amazonaws.com/index.html
