@@ -21,11 +21,10 @@ Below is the step-by-step process I followed to complete this project. If you're
 ## Process
 
 ### Overview:
-The analysis was carried out in multiple phases:
-1. **Microsoft Excel**: Initial high-level data analysis.
-2. **R**: In-depth analysis on a yearly basis.
-3. **Tableau**: Data visualization for insights.
-4. **Figma**: Enhancing the visual design elements.
+The analysis was carried out in two phases:
+1. **R**: In-depth analysis on a yearly basis.
+2. **Tableau**: Data visualization for insights.
+
 
 ### Microsoft Excel
 I started by using **Excel** due to its familiarity and ease of use. To avoid performance issues with large datasets, I kept the files separate by month.
